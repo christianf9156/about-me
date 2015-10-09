@@ -12,4 +12,5 @@ _I have 2 siblings. Both younger and 1 brother and 1 sister_
 * I am 16 years old
   * Born 02/13/99
  1. I attented a private middle school
- 2. I have always been interested in computers and science 
+ 2. I have always been interested in computers and science  
+ <https://github.com/christianf9156/about-me/blob/master/README.md>  
